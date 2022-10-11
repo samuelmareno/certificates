@@ -21,4 +21,9 @@ Mobile (Native Android Development)
  - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/academies/251/certificates/513379)
  
  Front-end (Web)
-- [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/RVZK4O2VNPD5)
+ - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/RVZK4O2VNPD5)
+
+## Udemy
+ - [Database MySQL : Pemula sampai Mahir](https://www.udemy.com/certificate/UC-ce4c5bf9-25fa-4f96-b7af-fca6e419beaa) Instructor: [@khannedy](https://github.com/khannedy)
+ - [Git : Pemula sampai Mahir](https://www.udemy.com/certificate/UC-48d416ad-4747-41ac-a7a1-530c41562a5b) Instructor: [@khannedy](https://github.com/khannedy)
+ - [Pemrograman Kotlin : Pemula sampai Mahir](https://www.udemy.com/certificate/UC-383fe11b-2397-47db-a6f9-c5dec70e9678) Instructor: [@khannedy](https://github.com/khannedy)
