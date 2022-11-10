@@ -19,6 +19,7 @@ Mobile (Native Android Development)
  Back-end (Cloud Computing)
  - [Belajar Dasar-Dasar Azure Cloud](https://www.dicoding.com/academies/144/certificates/513379)
  - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/academies/251/certificates/513379)
+ - [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/6RPN6W884P2M)
  
  Front-end (Web)
  - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/RVZK4O2VNPD5)
